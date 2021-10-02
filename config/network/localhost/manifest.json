@@ -1,9 +1,9 @@
 {
-    "year": "2377",
+    "year": "2012",
     "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
-    "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "serverName": "Blackgate Main Server",
+    "iconName": "RPB_Logo_Black.png",
+    "terminalID": "RPB-001",
     "defaultUser": {
         "userId": "user",
         "password": "",
