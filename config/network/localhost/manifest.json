@@ -1,13 +1,13 @@
 {
-    "year": "2012",
+    "year": "2032",
     "serverAddress": "localhost",
-    "serverName": "Blackgate Main Server",
-    "iconName": "RPB_Logo_Black.png",
-    "terminalID": "RPB-001",
+    "serverName": "Morgen-Xing Corporation - Intranet",
+    "iconName": "MXLogo.jpg",
+    "terminalID": "MX-004",
     "defaultUser": {
         "userId": "user",
         "password": "",
-        "userName": "anonymous"
+        "userName": "guest"
     },
     "randomSeed": true,
     
