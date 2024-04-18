@@ -1,9 +1,9 @@
 {
     "year": "2077",
     "serverAddress": "localhost",
-    "serverName": "Morgen_Xing_Corp_Intranet",
+    "serverName": "Morgen Xing Corp. - Intranet",
     "iconName": "MXLogo.jpg",
-    "terminalID": "Y56",
+    "terminalID": "MX#008",
     "defaultUser": {
         "userId": "user",
         "password": "",
